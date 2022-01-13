@@ -38,7 +38,7 @@ Both of those need to be present at the same time.
 
 ---
 
-# Principles of architecture - dev
+## Principles of architecture - dev
 
 <br/>
 
@@ -49,7 +49,7 @@ Both of those need to be present at the same time.
 
 ---
 
-# Principles of architecture - ops
+## Principles of architecture - ops
 
 <br/>
 
