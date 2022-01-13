@@ -38,6 +38,22 @@ Both of those need to be present at the same time.
 
 ---
 
+<center>
+
+![Reaction1](kid-seriously.png "Reaction1")
+
+</center>
+
+---
+
+<center>
+
+![Reaction2](kid-comeon.png "Reaction2")
+
+</center>
+
+---
+
 ## Principles of architecture - dev
 
 <br/>
