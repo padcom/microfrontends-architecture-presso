@@ -40,7 +40,7 @@ Both of those need to be present at the same time.
 
 <center>
 
-![Reaction1](kid-seriously.png "Reaction1")
+![Reaction1](kid-seriously.jpg "Reaction1")
 
 </center>
 
@@ -93,6 +93,14 @@ Both of those need to be present at the same time.
 ---
 
 ![Reality](enterprise_architectures.png "Reality")
+
+---
+
+<center>
+
+![Reality](cutting.png "Reality")
+
+</center>
 
 ---
 
